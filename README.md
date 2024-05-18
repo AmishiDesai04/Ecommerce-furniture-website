@@ -54,3 +54,10 @@ To run the website, follow the below steps:
 - **Adding to Cart:** Click on the "Add to Cart" button on any product page to add it to your shopping cart.
 - **Filtering Products:** Use the filters available on the product listing pages to sort items based on different criteria.
 
+## Authors
+
+This project is co-owned by: [@AmishiDesai04](https://www.github.com/AmishiDesai04) [@chahelgupta](https://www.github.com/chahelgupta) 
+
+## 
+
+Please don't hesitate to offer suggestions, report any issues you encounter, share your feedback, or engage in any other form of communication! Your input is highly valued and appreciated.
