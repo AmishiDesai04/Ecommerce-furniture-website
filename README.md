@@ -56,7 +56,7 @@ To run the website, follow the below steps:
 
 ## Authors
 
-This project is co-owned by: [@AmishiDesai04](https://www.github.com/AmishiDesai04) [@chahelgupta](https://www.github.com/chahelgupta) 
+This project is co-owned by: [@AmishiDesai04](https://www.github.com/AmishiDesai04) [@chahelgupta](https://www.github.com/chahelgupta) [@reneeka](https://www.github.com/reneeka)
 
 ## 
 
